@@ -1,0 +1,16 @@
+<header class="header">
+  <h1 class="title"><a href="/">{{ site.title }}</a></h1>
+  <nav class="main-nav">
+    <ul class="clearfix">
+      {% if site.twitter_username %}
+        <li>
+          <a href="https://twitter.com/{{ site.twitter_username }}">
+            <i class="fa fa-twitter"></i>
+          </a>
+        </li>
+      {% endif %}
+      <li><a href="/">Home</a></li>
+      <li><a href="mailto:{{ site.email }}">Contact</a></li>
+    </ul>
+  </nav>
+</header>

@@ -1,0 +1,222 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+$light-grey: #eee;
+$grey: rgb(124, 124, 124);
+$dark-grey: #333;
+$blue: rgb(73, 89, 171);
+
+* {
+  box-sizing:border-box;
+}
+
+html, body, .wrapper {
+  height:100%;
+}
+
+body {
+  font-family: "Crimson Text", serif;
+  font-color: $dark-grey;
+}
+
+a {
+  text-decoration: none;
+  color: $blue;
+
+  &:visited {
+    color: $blue;
+  }
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+ul {
+  list-style:none;
+  padding:0;
+  margin:0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight:normal;
+}
+
+.clearfix {
+  &:after {
+    display:table;
+    content:"";
+    clear:both;
+  }
+}
+
+.wrapper {
+  padding:20px;
+  max-width:960px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align:center;
+  font-family:"Raleway", sans-serif;
+  text-transform: uppercase;
+
+  a {
+    color: $dark-grey;
+  }
+
+  .title, .main-nav {
+    display:inline-block;
+    vertical-align:bottom;
+  }
+
+  .title {
+    margin:0;
+    font-size:40px;
+    line-height:1;
+  }
+
+  .main-nav {
+    ul {
+      margin:22px 0 0;
+
+      li {
+        margin-left:20px;
+        font-size:18px;
+        float:left;
+      }
+    }
+  }
+}
+
+.content {
+  padding:60px 30px 30px;
+}
+
+.post-title {
+  font-weight:bold;
+}
+
+.post-type {
+  text-transform: uppercase;
+  color: $grey;
+  font-size:16px;
+}
+
+.posts {
+  .row {
+    border-bottom: 1px solid $light-grey;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+
+    &:last-child {
+      border-bottom:none;
+    }
+  }
+
+  .post-item {
+    padding:0 25px;
+
+    h2 {
+      margin:0;
+    }
+
+    .post-title {
+      font-size: 30px;
+
+      .post-link {
+        color: $dark-grey;
+      }
+    }
+
+    .post-meta {
+      padding:5px 0;
+      margin-bottom:10px;
+      font-size:14px;
+    }
+
+    .post-preview {
+      line-height:1.5;
+      font-size:16px;
+    }
+
+    .post-share {
+      .fa-share {
+        margin-right:5px;
+      }
+    }
+  }
+}
+
+.post {
+  font-size:24px;
+  padding:0 30px;
+
+  .post-header {
+    .post-title {
+      font-size:35px;
+      margin:0;
+    }
+    .post-share {
+      text-align: right;
+      font-size: 18px;
+      margin-top: 8px;
+
+      .fa-share {
+        margin-right: 10px;
+        color: $blue;
+      }
+    }
+    .post-date {
+      margin: 10px 0 40px;
+      font-size: 18px;
+    }
+  }
+}
+
+.footer {
+  font-size: 16px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Media queries */
+
+@media screen and (max-width:768px) {
+  .wrapper {
+    padding:20px 0 0;
+  }
+
+  .posts {
+    .post-item {
+      margin-bottom:30px;
+
+      .post-preview {
+        padding-bottom:30px;
+        border-bottom:1px solid $light-grey;
+      }
+    }
+
+    .row {
+      border-bottom:none;
+      margin-bottom:0;
+      padding-bottom:0;
+    }
+  }
+}
+
+@media screen and (max-width:544px) {
+  .header {
+    .main-nav {
+      ul {
+        li {
+          margin:0 10px;
+        }
+      }
+    }
+  }
+
+  .post {
+    padding:0;
+  }
+}

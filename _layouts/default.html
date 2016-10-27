@@ -10,9 +10,11 @@
   </head>
   <body>
     <div class="wrapper container">
-      {% include header.html %}
-      <div class="content">
-        {{ content }}
+      <div class="top-wrapper">
+        {% include header.html %}
+        <div class="content">
+          {{ content }}
+        </div>
       </div>
       {% include footer.html %}
     </div>

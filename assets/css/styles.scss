@@ -64,6 +64,10 @@ h1, h2, h3, h4, h5 {
   text-transform: uppercase;
   margin-bottom:60px;
 
+  .header-wrapper {
+    display:inline-block;
+  }
+
   a {
     color: $dark-grey;
 
@@ -197,6 +201,7 @@ h1, h2, h3, h4, h5 {
   line-height:1.5;
   padding:0 30px;
   margin-top:20px;
+  margin-bottom:100px;
 
   p {
     margin-bottom:35px;
@@ -239,7 +244,7 @@ h1, h2, h3, h4, h5 {
       left:5px;
       height:7px;
       width:7px;
-      background:#000;
+      background:$dark-grey;
     }
   }
 }

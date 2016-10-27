@@ -5,7 +5,9 @@
 $light-grey: #eee;
 $grey: rgb(124, 124, 124);
 $dark-grey: #444;
-$blue: rgb(73, 89, 171);
+$blue: rgb(36, 37, 142);
+$fb-blue: rgb(59, 89, 152);
+$twitter-blue: rbg(70, 10, 0);
 $red: rgb(212, 71, 71);
 
 * {
@@ -222,9 +224,17 @@ h1, h2, h3, h4, h5 {
       font-size: 18px;
       margin-top: 8px;
 
-      .fa-share {
-        margin-right: 10px;
-        color: $blue;
+      .fa {
+        font-size:30px;
+        margin-left:5px;
+      }
+
+      .fa-facebook-square {
+        color: $fb-blue;
+      }
+
+      .fa-twitter-square {
+        color: $twitter-blue;
       }
     }
     .post-date {

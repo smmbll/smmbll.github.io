@@ -5,67 +5,70 @@ layout: default
 <section class="posts">
   <ul class="post-list">
     <div class="row">
-      {% if site.posts[1] %}
-      <li class="post-item latest col-sm-8 col-xs-12">
-      {% else %}
-      <li class="post-item latest no-border col-xs-12">
-      {% endif %}
-        <div class="post-type"><span class="latest-marker">Latest</span> - {{ site.posts[0].type }}</div>
-        <h2 class="post-title">
-          <a class="post-link" href="{{ site.posts[0].url | relative_url }}">{{ site.posts[0].title | escape }}</a>
-        </h2>
-        <div class="post-meta clearfix">
-          {{ site.posts[0].date | date: "%b %-d, %Y" }}
-        </div>
-        <div class="post-preview">
-          {{ site.posts[0].excerpt | remove: '<p>' | remove: '</p>' }}
-          {% if site.posts[0].excerpt != site.posts[0].content %}
-            <a href="{{ site.baseurl }}{{ site.posts[0].url }}">More.</a>
-          {% endif %}
-        </div>
-      </li>
-      {% if site.posts[1] %}
-      <li class="post-item col-sm-4 col-xs-12">
-        <div class="post-type">{{ site.posts[1].type }}</div>
-        <h2 class="post-title">
-          <a class="post-link" href="{{ site.posts[1].url | relative_url }}">{{ site.posts[1].title | escape }}</a>
-        </h2>
-        <div class="post-meta clearfix">
-          {{ site.posts[1].date | date: "%b %-d, %Y" }}
-        </div>
-        <div class="post-preview">
-          {{ site.posts[1].excerpt | remove: '<p>' | remove: '</p>' }}
-          {% if site.posts[1].excerpt != site.posts[1].content %}
-            <a href="{{ site.baseurl }}{{ site.posts[1].url }}">More.</a>
-          {% endif %}
-        </div>
-      </li>
-      {% endif %}
+      <div class="container">
+        {% if site.posts[1] %}
+        <li class="post-item latest col-sm-8 col-xs-12">
+        {% else %}
+        <li class="post-item latest no-border col-xs-12">
+        {% endif %}
+          <div class="post-type"><span class="latest-marker">Latest</span> - {{ site.posts[0].type }}</div>
+          <h2 class="post-title">
+            <a class="post-link" href="{{ site.posts[0].url | relative_url }}">{{ site.posts[0].title | escape }}</a>
+          </h2>
+          <div class="post-meta clearfix">
+            {{ site.posts[0].date | date: "%b %-d, %Y" }}
+          </div>
+          <div class="post-preview">
+            {{ site.posts[0].excerpt | remove: '<p>' | remove: '</p>' }}
+            {% if site.posts[0].excerpt != site.posts[0].content %}
+              <a href="{{ site.baseurl }}{{ site.posts[0].url }}">More.</a>
+            {% endif %}
+          </div>
+        </li>
+        {% if site.posts[1] %}
+        <li class="post-item col-sm-4 col-xs-12">
+          <div class="post-type">{{ site.posts[1].type }}</div>
+          <h2 class="post-title">
+            <a class="post-link" href="{{ site.posts[1].url | relative_url }}">{{ site.posts[1].title | escape }}</a>
+          </h2>
+          <div class="post-meta clearfix">
+            {{ site.posts[1].date | date: "%b %-d, %Y" }}
+          </div>
+          <div class="post-preview">
+            {{ site.posts[1].excerpt | remove: '<p>' | remove: '</p>' }}
+            {% if site.posts[1].excerpt != site.posts[1].content %}
+              <a href="{{ site.baseurl }}{{ site.posts[1].url }}">More.</a>
+            {% endif %}
+          </div>
+        </li>
+        {% endif %}
+      </div>
     </div>
     {% for post in site.posts %}
     {% capture modulo %}{{ forloop.index | modulo: 3 }}{% endcapture %}
       {% if forloop.index > 1 %}
         {% if modulo == '2' %}
-          <div class="row">
+        <div class="row">
+          <div class="container">
         {% endif %}
-        <li class="post-item col-sm-4 col-xs-12">
-          <div class="post-type">{{ post.type }}</div>
-          <h2 class="post-title">
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </h2>
-          <div class="post-meta clearfix">
-            {{ post.date | date: "%b %-d, %Y" }}
-          </div>
-          <div class="post-preview">
-            {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-            {% if post.excerpt != post.content %}
-              <a href="{{ site.baseurl }}{{ post.url }}">More.</a>
-            {% endif %}
-          </div>
-        </li>
-
+            <li class="post-item col-sm-4 col-xs-12">
+              <div class="post-type">{{ post.type }}</div>
+              <h2 class="post-title">
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+              </h2>
+              <div class="post-meta clearfix">
+                {{ post.date | date: "%b %-d, %Y" }}
+              </div>
+              <div class="post-preview">
+                {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+                {% if post.excerpt != post.content %}
+                  <a href="{{ site.baseurl }}{{ post.url }}">More.</a>
+                {% endif %}
+              </div>
+            </li>
         {% if modulo == '1' or forloop.last %}
           </div>
+        </div>
         {% endif %}
       {% endif %}
     {% endfor %}

@@ -2,21 +2,20 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text|Raleway" media="all">
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text|Raleway|Amiri|Cormorant" media="all">
   </head>
   <body>
-    <div class="wrapper container">
-      <div class="top-wrapper">
-        {% include header.html %}
-        <div class="content">
-          {{ content }}
-        </div>
+    <div class="wrapper">
+      {% include header.html %}
+      <div class="content">
+        {{ content }}
       </div>
-      {% include footer.html %}
     </div>
+    {% include footer.html %}
   </body>
 </html>

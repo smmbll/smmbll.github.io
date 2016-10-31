@@ -27,7 +27,7 @@ The world starts to swim at the edges: you are flashing back. You’re being tak
 
 You are in line at security. Your turn has come. You step up to the metal preparation table. On it, you place your bag, which you open, removing your laptop. This you place into one tray, and your backpack, into another. You then take your other bag, your larger bag, removing from it your toiletries case, and place both of these things into a third tray. A fourth one rounds it off for your phone, wallet, jacket, and all your pockets’ divers Devises. Thusly assembled, you send the convoy onwards and pass through the metal detector, which issues no report. On the other side, you line up in good faith for your turn to reclaim and repackage your property.
 
-There are two belts on the return end, one in front of the other, a plexiglass wall between. A steady stream of bags proceeds from behind the rubber flaps at the scanner’s egress and then down the belt closest to you. 
+There are two belts on the return end, one in front of the other, a plexiglass wall between. A steady stream of bags proceeds from behind the rubber flaps at the scanner’s egress and then down the belt closest to you.
 
 The sea parts: you see your backpack emerge, and then your laptop. These chug along down towards you. You see that your other bag is right behind them, but the backpack reaches you and you’ve only got seconds to grab it before you cause a fifty-car pileup. You get the trays out in the nick of time and take them to the repacking table. Then you come back.
 
@@ -125,7 +125,7 @@ The guard is coming towards you. Fuck. At least you’ve spent enough time shitt
 
 The twins are watching you, their eyes red with appetite, as they hum a Greensleeve-y ode to lust, new blood, and the moistened frenzy of copulative generation.
 
-The guard is close. He is now in front of you. You 
+The guard is close. He is now in front of you. You
 
 And he walks past.
 
@@ -157,4 +157,4 @@ The Lavazza guy gives you your drink. As you sip the stone-cold Nespresso with g
 
 You remember the Belgian guard, his gleeful smile, the reverence with which he stared at your speaker that was now his, all his.
 
-There’s a lesson in all this, about fear, about propriety, about desire. A paper could be written. But brevity, wit; and mainly, after all this, brevity. Freedom is a conspicuous consumption; there’s no joy in possessing it if everyone else does. Or, in brief: Belgium’s what we want in the streets, and Cairo’s what we keep for the sheets\<span class=“last-period”\>.\</span\>
+There’s a lesson in all this, about fear, about propriety, about desire. A paper could be written. But brevity, wit; and mainly, after all this, brevity. Freedom is a conspicuous consumption; there’s no joy in possessing it if everyone else does. Or, in brief: Belgium’s what we want in the streets, and Cairo’s what we keep for the sheets<span class=“last-period”>.</span>

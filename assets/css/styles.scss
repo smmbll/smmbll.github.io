@@ -259,7 +259,7 @@ h1, h2, h3, h4, h5 {
 .footer {
   font-size: 12px;
   text-align: center;
-  background-color:$tile-2;
+  background-color:$tile-1;
   padding:20px 0;
   height:57px;
 
@@ -273,6 +273,7 @@ h1, h2, h3, h4, h5 {
 @media screen and (max-width:768px) {
   .header {
     padding-bottom:25px;
+    margin-bottom:15px;
     .main-nav {
       margin-top:20px;
     }

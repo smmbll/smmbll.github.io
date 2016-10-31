@@ -5,68 +5,156 @@ date:   2016-10-23 19:05:41 +0200
 author: Lion Summerbell
 type: essay
 ---
-Saturday, 9:51 PM, Cairo Airport. You and a family of Norwegians—Swedes? Danes? The bad guys from Lethal Weapon 2? Tall fuckers, anyway—are very, very lost.
+Saturday, 9:51 PM, Cairo Airport. You and a pair of Norwegians—Swedes? Danes? The bad guys from Lethal Weapon 2?—are very, very lost.
 
-This isn’t your fault, or theirs. It’s the signs, you see—they seem like they might have gotten diverted on their way to a Kafka play. More than once they’ve told you to walk through a wall. Even worse is when they just disappear on you: down this hall, then down that one, but all you find is an arrow pointing back the way you came, to a toilet that you know by now isn’t there.<now>
+They’re a strange pair, whatever fjord they crawled out of. They’re identical twins, though the word falls short of capturing the exactitude of their congruence. Identically sexless, identically ageless, hair and skin identically colorless, they’re about as wide around as a belt loop, and they tower over everyone in the airport, scraping the heavens, or at least the PVC ceiling. Their movements are so perfectly articulated that they seem to have more frames per second than reality itself. They see nothing that isn’t one another. And from the way that their eyes meet––the intensity and intimacy of that shared gaze—you know with absolute certainty that each year at the first coming of Spring, they sneak off to the lightless center of a pristine Scandinavian wood to fuck vigorously and decadently in a carbon neutral cabin.
 
-So it’ll have to be madness, which is unfortunate, but on balance would be a pleasant reprieve from your current circumstances. You’re all geared up to begin screaming for someone to help stop all of your thoughts from coming out of your ears when the lead Viking’s head does a pigeon-worthy swivel to the left. Looking after him, you see through the wet tea bag light a shaft of pure gold. And there it is: visible above the doorway, the word ‘Departures.’ You would weep, but you suspect that the Dutchmen are trained to eliminate weakness for the good of the herd. Instead, you go towards the light with a jaunty how-do-you-do in your step, Gunnar & Co at your back.
+As for why you’re lost with them, that’s a hard question to answer. You weren’t following them, and they certainly weren’t aware of you. The blame seems to lie squarely on the signs, which appear to have been intended for the set of a Kafka play. Down this hall, then up it again; two rights and then a left; shuffle sideways, turn 35 degrees counterclockwise; pirouette; shimmy; first position; demi-plié. All that messhugeneh and where do you end up? At an arrow pointing back the way you came, to a toilet that your aching bladder keeps reminding you will not be there.
 
-And there it is: the machine. A blue steel machine, a black rubber machine, a death’s head machine, the kind that’s called something pseudo-anatomical and Metal Gear-sounding: Sphenctor or Labiarm or Frenulex. It’s a checkpoint, and you and the Norwegians know, with dread, that you’ll have to go through it. But if only it were that easy. Lavoisier was almost right: matter is perfectly conserved–*except at security*. Here rules a God whose appetites are whetted in darkness and flux; and you, my friend, are nothing but a lamb fattened at habit’s changeless teat.
+At this point, you’re ready to go completely mad. It’s a bum rap, sure, but at this point catastrophic mental collapse would be a welcome reprieve from your current circumstances. You’re all set to start start screaming about satellites when the Vikings come to a sudden halt. With the precision of a synchronized swimming team, their heads swivel pigeon-perfectly, locking onto a single point to their left. The sureness of the movement carries you with it; you, too, look. Through the wet tea bag drone of the overheads, you see a doorway, and that sainted word, ‘Departures’, hovering above. The light from within is pure gold. You would weep, if you didn’t suspect that the Danes would cull you at the first sign of weakness––always with them is it for the good of the herd.
 
-There’s two ways that this could go.
+Half-crazed with joy, you practically skip inside. And come to an almost immediate stop–because the machine. A blue steel machine, a black rubber machine, a death’s head machine, the kind that’s called something pseudo-anatomical and Metal Gear-sounding: Sphenctor or Labiarm or Frenulex.
 
-Picture yourself in some Belgian regional terminus, Antwerp, maybe, or somewhere else if Antwerp hasn’t got an airport, which it shouldn’t, the miserable little hole. You start opening your bag and pulling that nice little silvery number with Eve’s big whoopsie on the top. And suddenly from beyond the *cordonne securitaire* comes bounding towards you another sullen crew-cutted victim of meritocracy with shoulders like a wet anthill. _J’accuse_, his finger says. You wish very much that you’d taken French in high school.
+It’s a checkpoint. And you have been checked.
 
-“Vy haf you djone dish?” he asks, but with a real Flemish accent. For the life of you you can’t figure out what he means. What have you got in your bag? Some feuilletons à la Graham Greene–the good ones, you know, when he’s older and angry all of the time–and a nice smutty *Black Mask* Chandler where the world gets along fine on a diet of highballs and morphine. You struggle to recall what could have set the alarm bells ringing. Did you accidentally throw a pressure cooker full of nails in there too?
+You look around for someone to direct you, but there is no one else there. Theoretically, if you were a real badass, you would walk around the metal detector and just go right on through. If you had iron hands you could punch through concrete–theoretically. If you had self-control and a sustained capacity for empathy, you could be truly happy with yourself and other people—theoretically.
 
-You look down to where he’s pointing, and in no way does your confusion abate. Two trays, gray plastic—you know, the kind that looks like if you squeezed it tar would come out. One’s got your bag, and the other, your laptop. You look back at him. Hid eyes are incredibly small. Staring into them, you have the uneasy feeling that he’s blinking out racial slurs in semaphore.
+So, good citizen and bad friend that you are, you put your bags onto the scanner’s conveyor belt, square up with the metal detector—that budget Stargate the color of prison pork—and, still buoyed by the not total absence of reason & rationality in Cairo airport, stroll on through.
 
-“I don’t understand,” you say, and this is the God’s honest truth.
+_AAAAAAAAA!_ goes the alarm.
 
-His finger, like him, will not waver. “Dish,” he tells you.
+The world starts to swim at the edges: you are flashing back. You’re being taken to a time before time, a place before place. You are going back—_to Belgium_.
 
-Dish? Dish? Anxiously, you look for dish. You open your bag, empty its contents onto the table. The books come spilling out: _Comedies of the Sexual Life_; you did pick a good Greene. Then you have a flash of embarrassment as you remember that you’re in public, and _Did I pack condoms_? _Will they see that I have sex?_ shatters your thoughts. But you very quickly remember who you’re talking about. _Of course I didn’t_. Relief is immediate, if not entirely pleasant.
+You are in line at security. Your turn has come. You step up to the metal preparation table. On it, you place your bag, which you open, removing your laptop. This you place into one tray, and your backpack, into another. You then take your other bag, your larger bag, removing from it your toiletries case, and place both of these things into a third tray. A fourth one rounds it off for your phone, wallet, jacket, and all your pockets’ divers Devises. Thusly assembled, you send the convoy onwards and pass through the metal detector, which issues no report. On the other side, you line up in good faith for your turn to reclaim and repackage your property.
 
-The longer it takes for you to figure out what he could mean, the worse things get. Your palms sweat so that you can’t get a grip on anything that you’ve dumped into the tray. You end up dropping that thing that for whatever reason always ends up in your backpack, the one that’s incredibly heavy, with hundreds of sharp edges, so that in moments like these it can slam right onto the unforgiving floor and let loose a sound like wolverines laying into a box of steak knives.
+There are two belts on the return end, one in front of the other, a plexiglass wall between. A steady stream of bags proceeds from behind the rubber flaps at the scanner’s egress and then down the belt closest to you. 
 
-CRASH it goes, and all of Antwerp airport turns to face you, every six-and-a-half-foot-tall dad with his maroon sweater and *flared* jeans, every seven-foot-tall mom whose shoulders are like a Norwegian fjord and whose face resembles the bridge across it, every seven-and-change-foot twin boy and girl who definitely sneak off into a pristine wood each summer to fuck vigorously and decadently in a carbon neutral cabin. They all regard you with an incalculable Nordic hatred for disorder and its flagrant, filthy handmaidens. The ignominy is unrelenting and it is yours, and yours alone. You, and you alone, are Spartacus here.
+The sea parts: you see your backpack emerge, and then your laptop. These chug along down towards you. You see that your other bag is right behind them, but the backpack reaches you and you’ve only got seconds to grab it before you cause a fifty-car pileup. You get the trays out in the nick of time and take them to the repacking table. Then you come back.
 
-Your brow is canned pea soup from the generic aisle. If only norms hadn’t changed and men could carry handkerchiefs without everyone thinking they were a dick.
+Your bag is not on the belt. Not on the closest one, anyway. It’s going down the far side. You are dimly aware that something is happening, until the point is made very clear when from beyond the *cordonne securitaire* comes plodding over one of that sullen tribe of meritocracy’s victims, crew-cutted and with shoulders like a wet anthill. His hands are in white gloves, the kind whose wrist the doctor snaps just before going deep into the dark side of the moon. He takes your bag. He has taken your bag. It is now on the docket of the court of no appeal: the inspection zone.
 
-The security guard is looking at you with his cop face on, and even though, let’s face it, he’s just some shmuck on an hourly, he’s got power. You’re going to be arrested, you realize. You’ll have to tell your parents. You’re almost 30; you can’t really get grounded anymore, which is some relief. But you remember that time when you were 10, maybe 11, and you stole some Sour Patch kids from the deli, and your dad didn’t yell at you, he just said you only had one life, and if you did it shitty, it wasn’t his problem, he wasn’t gonna bail you out of jail. You remember that your dad grew up a Methodist, and that he doesn’t *believe* in happiness. And you know—icily, undeniably—that he wouldn’t, either.
+You rush around the corner. The guard is standing, trimly and without expression, at a black table. Your bag is in front of him.
 
-“Your laptop,” says the Flam.
+“Shir,” he asks, Flemishly. “Ish thish yuur baak?”
 
-You can do nothing except do your best parrot: “My laptop?”
+_Of course it’s my fucking bag you asshole_, you imagine shouting.
 
-He agrees. “Your laptop.” Then he brings his right hand up, index finger extended. He stares at you in a way that suggests that you are to look at the finger, which you do. He gives you a second. Once he’s sure that you’ve complied, and that his digit has got its due, he clears his throat. Then he wags it: very precisely to the left, and then, with subatomic exactitude, the equivalent distance to the right.
+“Yes,” you say. “It is.”
 
-“You do not need to remove it,” he tells you.
+The guard’s face remains immutable—all except for one eyebrow, which creeps up, lingers, and comes back down to rest. The sign, you realize, of your impending doom.
 
-You stare dumbly, stupidly, astoundedly—but what can you say? This is the world of airport security. It’s a grind that moves faster than any man’s got hustle for. You place your laptop back in the bag, which you put in the tray, and usher what is literally your entire life along onto the belt. Then you go into the body scanner and get shouted out for putting your arms up. S’the game, baby.
+“Pleash, shir. Vat ish in yuur baak?” For the life of you you can’t figure out what he means. What did you pack? T-shirts and underwear, mostly clean. Some feuilletons à la Graham Greene–the good ones, you know, when he’s older and angry all of the time–and a nice smutty *Black Mask* Chandler where the world cozies along on a diet of whiskey highballs and morphine. You struggle to think of anything that could be misconstrued. Do you own one of those nail files that looks like a bowie knife if you turn it just so?
 
-That’s the best-case scenario. But you aren’t in (debatably) first-world Belgium. This is Egypt. Your best hope is that when they’re shocking your balls below a parking garage on the outskirts of Alexandria, one of the guys will have forgotten to charge his taser.
+You look at the guard for some sort of sign. His eyes are unnervingly small. You can’t be sure, but, staring into them, you have the feeling that he’s blinking out racial slurs in morse code.
 
-There you are, with these Nordic colossi, their children fresh from their venal rites of spring, and you’ve all got to figure out what the hell you’re supposed to do. They take more initiative than you: one of them’s already got a Puma off, while the other is busy unfastening a mint green woven belt; the twins are mainly paying attention to the overhead lights, since they are what’s at eye level; and one fat old companion, probably a bachelor uncle who gets happy ending’d by the Danish state as part of a public mental health initiative, he’s digging into his creepy guy shoulder bag to pull out his creepy guy off-brand Windows computer (diddlers always prefer the cheap stuff); and then—!
+“I don’t know,” you say, and this is the God’s honest truth.
 
-The security guy. He sees you. And he comes flying up from his phone with rage in eyes whose purity would put Spanish cocaine to shame.
+“Sher ish shomeshink in yuur baak, shir.” He sounds as certain of this as he is that the sun will rise tomorrow and that Holland is for pussies. “I haf permishun to inshpect it now.”
 
-He begins waving his hands at everything that everyone is doing. He shouts something in Arabic and is further enraged to discover that he will have to translate, which he promptly doesn’t do. Instead, he reaches around to the other side of the conveyor belt to seize the bag at the tail-end and begins stuffing it, and the whole convoy in front of it, through as quickly as it can go. He gestures at the metal detector: “Come the fuck on!” says his cupped hand. The Teutons literally cannot understand what he could mean. The absence of procedure has clearly had a devastating effect on their *Weltanschaaung*.
+You nod, as if this weren’t a command, and are pained by how utterly hapless you are.
 
-Not the girls, though. You see that they’re on the other side already, humming a Greensleeve-y ode to lust, new blood, and the moistened frenzy of copulative generation.
+He opens your bag and begins emptying its contents onto the table. T-shirts, check. Underwear, check. A book–-_Comedies of the Sexual Life_; at least you did pick a good GG.
 
-But not you. No, you are a seasoned traveler. There? You’ve been. That? You’ve done. You square up with that metal detector—that right-angled orifice the color of budget pork—and without heed for the guard’s come hither, all caution thrown right smack into the kisser of the wind, you stroll on through.
+You feel that you are being stared at by everyone who goes past; and if you looked up, you wouldn’t be wrong. Everyone is regarding you with a ferocious Nordic hatred for disorder and its flagrant, filthy handmaidens. The ignominy is unrelenting, and it is all for you._**He** is Spartacus_, screams the colosseum all around.
 
-AAAAAAAAA! goes the alarm.
+His hand is near the bottom of your bag when it suddenly stops moving. He looks down very intently at what he’s found. Your stomach, meanwhile, is now midway through a career-defining gymnastics routine.
 
-Uh-oh. Hoist by your own petard, which is some kind of crane, right? An eggplant and a stun gun leap into your thoughts.
+His chin shifts a micron to the right. Sissone, roundoff, back handspring, back tuck. It then describes a similar shift to the left. Triple back handspring into an Arabian, 9.5 for the landing. Then he begins withdrawing the _tua culpa_. That’s when your heart spins off the low bar to reach the high and misses, slamming into the ground, its career over in a mess of shattered bone and withdrawn endorsements.
 
-But the guy isn’t even looking at you. He’s too busy shoving a whole Rimowa suitcase, a 36 incher, into a passage no wider than a Taschenbook.
+The guard’s hand stops moving just before it crests the bag’s zip. He is looking at you with his cop face on. He’s just some shmuck on an hourly, you know that. But he’s a shmuck with _power_. He’s a _power shmuck_.
 
-The Norwegians, meanwhile, have come to accept the inescapable adirectionality of conscious life — at least until they’re safe and sound in positivist Oslo. There they come, right behind you, through the gates of hell. And for each, in turn, comes the mournful dirge: *aaaaOOOOOOOOaaaa*. You stand together altogether, awaiting your punishment, good Lutheran stock that you are. But you are nothing compared to that Rimowa, and to the laws of physics that this man is risking an aneurysm to break.
+You’re going to be arrested, you realize. You’ll have to call your father. You’re almost 30, so you can’t really get grounded anymore, which is some relief. But you remember that time when you were 10, maybe 11, and you stole some Sour Patch kids from the deli, and your dad didn’t yell at you, he just said you only had one life, and if you did it shitty, it wasn’t his problem. But he sure wasn’t gonna bail you out of jail. You remember that your dad grew up a Methodist, and that he doesn’t *believe* in happiness. And you know—icily, undeniably—that he wouldn’t, either.
 
-You look into the eyes of the Norwegians: up to the dad, then a little bit further up to the mom. You try to look at the girls but something about the unmiscegenated blueness of their stare makes your spine go colorless, and your eyes take flight, crazed, searching for something, anything with a flaw.
+He asks, “Vud yuu like to tell me vat,” and here comes the big reveal, “dish ish?”
 
-Your bag has made it out, a tremendous feat, since it seemed all but certain that the Rimowa would reign over the inside of the machine for a thousand years. You put your bag on your back. There is practically steam coming out of the machine’s gaskets now, and certainly from the guard’s ears. Then you walk right into Cairo airport, a free man–Greene, Chandler, IED and all.
+You stare into dish; and dish, it stares back.
 
-Oh, and for the sake of propriety: it was 8:51, not 9:51, because your clock was wrong. And that’s because the WiFi in Cairo airport, like the security guard and the Lavazza coffee guy who listened to you say ‘black tea with milk’ while going right ahead and making you a cappuccino, just doesn’t give a shit. And the truth is that you don’t, and the Belgian guy doesn’t. And when they’re alone in the dark Scandinavian winter, each beneath their own duvet, a haunting dithyramb of incestuous coupling rising from between the cracks in the floorboards, Odin and Freya don’t, either<span class="last-period"></span>
+There are moments in life that are like this: when two separate parts of your brain are talking to you, both with very different opinions, and neither with any awareness of the other’s existence.
+
+There is one part of you that is sure that it knows what you’re looking at it. It’s a cardboard box, six by six, with a fold-over lid. There is no decal on it or any other identifying markings. You know, however, what’s inside it. And moreover, you know that in an age of science, there could be no reason for it to send you to jail.
+
+But there is another part of you that heaps scorn on that kind of naiveté. _An age of science? Don’t fool yourself. Reason has flown south for the winter, my friend. And it’s going to be a long, long winter._
+
+Even though you’re looking at something and you _know_ what it must be, you also cannot believe that it is what you think i tis, because you’re going to be imprisoned for having it, and how could that be? Your confusion worsens considerably when the guard opens the box—“I haf yuur permishun to open it,” he tells you—and you are staring at exactly what logic and reason dictate would be there.
+
+Oh, and what is it, anyway? A single black speaker cone. It’s for your roommate, who uses you as an Amazon mule, because you’re both fated to live in a place still yoked to the cart of traditional retail.
+
+_Yes, a speaker cone_, the first part of your brain is saying. _This is plain to see._
+
+_A bomb_, the second one is saying. _Somehow, this is a bomb._
+
+You are trapped, helpless, in the void between these two parallel ontologies. There is nowhere in your mind left to turn to. Your only choice is to submit to the external world for judgment; so you look to the guard, not sure if you’re crying but hoping in fact that you are, and that either pity or revulsion will spare you the rod.
+
+But oddly enough, he isn’t looking back at you at all. In fact, the glow in his eyes suggests that the whole world has gone dark for him—everything except this thing his hand is holding.
+
+“Ju yuu know,” he begins asking, “vat dish ish?”
+
+“It’s a cone,” you say, not believing yourself at all. “For a speaker.”
+
+He closes the box lid and places it on the table. Then he says, “In Belgium, shir,” a short pause for breath, “thish ish not allowed.”
+
+You feel that you should protest. But that’s a kind of hutzpah that’s way above your pay grade. You see, deep down in the halapalegic dark of your conscience is an old truth, a slimy one with legs, and you are down there with that truth right now, you facing it, it facing you.
+
+You both take in a breath. _Eh_, you pronounce in tandem.
+
+_Fuck it._
+
+“Yes, sir,” you tell the guard. “I understand, sir,” you continue lying.
+
+He dips his chin down and up nanometer by nanometer. “Good,” he says. “I vill take it.”
+
+You scoop the rest of your belongings back into your bag and drag it over to the repacking tables. It takes you a few minutes to get everything in order. When you turn back, you see that same guard, off in the middle of the security area. He’s holding something in his hand. You can’t be sure, but it looks like—is that your speaker? His face has got a very certain kind of smile on it, a weightless one, like each corner of his mouth was held aloft by a string wrapped around the waist of a cherub.
+
+Way down in the dark with that truth, you see his covetousness, his , and you know: these are mine, too.
+
+Now crispen reality until you aren’t in (debatably) first-world Belgium. You’re back in Egypt, with a metal detector that’s just gone off, and just like at that inspection table, your mind is racing to understand.
+
+What do you know about Egypt? Hieroglyphics, for one. Those are pretty cool. Sadat—that’s the name of one of their presidents, right? He had something to do with missiles. What about the Islamic Brotherhood? They’re definitely here, or else they’re definitely nearby, but either way they’re definitely a thing.
+
+Your history is hazy, but your fear is clear. _This is the third world, man_, it tells you. _You are supremely fucked. Your only hope is that when they’re shocking your balls below a parking garage on the outskirts of the city, one of the guys will have forgotten to charge his taser._
+
+At that moment, someone other than you and the twins finally appears. It’s a guard, and ‘appears’ isn’t the half of it: he comes running into the room animated by a rage whose purity would put Spanish cocaine to shame.
+
+An eggplant and a stun gun leap into your thoughts.
+
+The guard sees you, and them, and immediately begins waving his hands at everything that everyone is doing. He shouts many things in Arabic. Unsurprisingly, neither you nor the Northern Europeans are fluent speakers. This only deepens his fury.
+
+The twins have by now come onto your side, though the scanner stayed silent for them. They could go on now, but they don’t. For them, conscious life is inescapably adirectional. All that is real is sensation, that which quickens the blood. What do they care but to burn the world on the pyre of their passion and frenzy?
+
+The guard is coming towards you. Fuck. At least you’ve spent enough time shitting yourself now that later, when your nervous system collapses under high voltage scrutiny, you won’t do something embarrassing.
+
+The twins are watching you, their eyes red with appetite, as they hum a Greensleeve-y ode to lust, new blood, and the moistened frenzy of copulative generation.
+
+The guard is close. He is now in front of you. You 
+
+And he walks past.
+
+He goes to the other side of the metal detector. There’s a suitcase on it, a gargantuan Rimowa, that you see has gotten stuck on its way in.
+
+You try to catch one of the twins’ attention, but something about the unmiscegenated blueness of their stare makes your spine go colorless, and your eyes take flight, crazed, searching for something, anything with a flaw.
+
+The guard screams at the suitcase, which pleads the fifth. He begins pushing it. It’s a valiant move, but doomed by some very simple physical constraints. Force won’t be the deciding factor in getting something 36” across to make it through a passage no wider than a Taschenbook.
+
+_Do I… go?_ The question hangs in your thoughts, until you realize that only you will be able to answer it.
+
+The twins, meanwhile, have lost interest in you now that you’ve escaped annihilation. They’re watching the guard struggling with a certain, and very canine, intent. His body has grown more and more agitated the more he fails to bend reality to his will. He’s like a reverse Titanic: water is pouring out of him through every means. He’s as red as Russia, and his breath has to be wrestled into him in cigarette-shrunken gasps.
+
+The twins are drawn to this like mill to grist. It’s magnetic: their bodies are literally being pulled forward, farther and farther, as they’re drawn to the spectacle of a will defeated in its fullest exercise. They’re gripping each other’s hands to the point of trembling. Veins would be popping out in bas-relief, if there was any blood in their bodies.
+
+The guard is losing strength. He pushes, but his feet keep sliding out from under him, and on the fifth attempt, he wavers, then falters, and just like that his dissolution is complete. He slumps against the back of the suitcase and slides to the ground, heaving, sweating, eyes like cue balls, perfectly round, perfectly desolate.
+
+At this, the twins snap. You feel, but don’t hear, them flee. It’s an odd sort of cold they leave behind, one that is also warm, and wet, and viscous.
+
+So now it’s just you—and everyone else in Cairo airport too, who are totally unfazed. People are walking through the metal detector with their bags on their shoulders. The alarm repeatedly goes off, and no one pays attention. They’re all Egyptians, and they all know the score. What do they need first-world protocols for? Who the hell wants to be Belgium anyway?
+
+Certainly not you. And with that, you shoulder your own bag and fuck right off towards the departures lounge.
+
+Later, at a Lavazza coffee kiosk, waiting for the guy who listened to you say ‘black tea with milk’ three times to bring you a cappuccino, you have a brief attack of conscience. You wonder about all the people and suitcases that got through. Did one of them have tomorrow’s breaking news in it? Was it right that you and a potential mass murderer both benefitted from a blanket policy of let-do? Isn’t there a _reason_ for the rules?
+
+But really, you’ll never escape your mind’s farthest depths, that lightless primordial trench. Even now, you can feel the squish of its ectoplasmic bottom beneath your feet.
+
+The Lavazza guy gives you your drink. As you sip the stone-cold Nespresso with grade-_waaw_ milk, you think about the twins, back home, safe in the woods, their bodies enmeshed beneath two single duvets, as the night dances with abandon to the dithyramb of their incestuous coupling.
+
+You remember the Belgian guard, his gleeful smile, the reverence with which he stared at your speaker that was now his, all his.
+
+There’s a lesson in all this, about fear, about propriety, about desire. A paper could be written. But brevity, wit; and mainly, after all this, brevity. Freedom is a conspicuous consumption; there’s no joy in possessing it if everyone else does. Or, in brief: Belgium’s what we want in the streets, and Cairo’s what we keep for the sheets\<span class=“last-period”\>.\</span\>

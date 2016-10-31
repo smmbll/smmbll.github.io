@@ -125,9 +125,7 @@ The guard is coming towards you. Fuck. At least you’ve spent enough time shitt
 
 The twins are watching you, their eyes red with appetite, as they hum a Greensleeve-y ode to lust, new blood, and the moistened frenzy of copulative generation.
 
-The guard is close. He is now in front of you. You
-
-And he walks past.
+The guard is close. He is now in front of you. His eyes are an epic of upset; they are closing in like guilt-seeking missiles, and you are sure that you are the one who will hang, you, the Robespierre of this twelve-by-ten directorate. You, you, you're sure it's you, positive it's you, right up until and past the point that you recognize a skew in his footwork, an angle that grows and grows until he is clear of you by a man's height and beyond, and he is walking past you, and he has walked past.
 
 He goes to the other side of the metal detector. There’s a suitcase on it, a gargantuan Rimowa, that you see has gotten stuck on its way in.
 

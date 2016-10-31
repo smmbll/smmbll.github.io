@@ -157,4 +157,4 @@ The Lavazza guy gives you your drink. As you sip the stone-cold Nespresso with g
 
 You remember the Belgian guard, his gleeful smile, the reverence with which he stared at your speaker that was now his, all his.
 
-There’s a lesson in all this, about fear, about propriety, about desire. A paper could be written. But brevity, wit; and mainly, after all this, brevity. Freedom is a conspicuous consumption; there’s no joy in possessing it if everyone else does. Or, in brief: Belgium’s what we want in the streets, and Cairo’s what we keep for the sheets<span class=“last-period”>.</span>
+There’s a lesson in all this, about fear, about propriety, about desire. A paper could be written. But brevity, wit; and mainly, after all this, brevity. Freedom is a conspicuous consumption; there’s no joy in possessing it if everyone else does. Or, in brief: Belgium’s what we want in the streets, and Cairo’s what we keep for the sheets<span class="last-period"></span>

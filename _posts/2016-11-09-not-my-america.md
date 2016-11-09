@@ -5,7 +5,9 @@ date:   2016-11-09 13:15:00 +0200
 author: Lion Summerbell
 type: essay
 ---
-I don’t need to ask what happened. There is plenty of that on the way, plenty of hair-tearing, plenty of finger-pointing, plenty of doomsaying–this is America, after all. America letting out a very deep and very dark howl, and you're right to be shaking at the knees. But before we go tossing handfuls of our fellow citizens off the moral balcony, please: nostra culpa. Because I think that the real truth is that we on the Democratic side of the aisle are as much to blame for this. We got it completely wrong–every last one of us who believed that our view of America was indistinguishable from America itself.
+I don’t need to ask what happened. There is plenty of that on the way, plenty of hair-tearing, plenty of finger-pointing, plenty of doomsaying. This is America after all, and as we've just seen, there's nothing it likes more than a very deep and very dark howl.
+
+You're right to be shaking at the knees. But before we go tossing handfuls of our fellow citizens off the moral balcony, please: nostra culpa. Because I think that the real truth is that we on the Democratic side of the aisle are as much to blame for this. We got it completely wrong–every last one of us who believed that our view of America was indistinguishable from America itself.
 
 White people voted, and they voted for Trump. There is a simple reason for why that determined the outcome of the election: the majority of America is white. Yes, that might surprise you to hear; we’ve been treated to several years of bombastic predictions that America had surpassed its distortionary homogeneity and was on an inevitable march towards a glorious non-white future. White people were already supposed to be irrelevant—white men especially. That was just the long arc of history, baby.
 

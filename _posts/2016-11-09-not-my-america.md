@@ -5,7 +5,7 @@ date:   2016-11-09 13:15:00 +0200
 author: Lion Summerbell
 type: essay
 ---
-I don’t need to ask what happened. There is plenty of that on the way, plenty of hair-tearing, plenty of finger-pointing, plenty of doomsaying–this is America, after all. The fact is that the Democratic Party got it very, very wrong just as much as America let loose a very deep and very dark howl.
+I don’t need to ask what happened. There is plenty of that on the way, plenty of hair-tearing, plenty of finger-pointing, plenty of doomsaying–this is America, after all. The fact is that the Democratic Party got it very, very wrong, just as much as America let out a very deep and very dark howl.
 
 But I think something less savory is at play here. I think what we need, but what we’re unlikely to get, is nostra culpa. Because I think that the real truth is that we on the Democratic side of the aisle are to blame. We got it completely wrong–everyone of us who believed that our view of America was indistinguishable from America itself.
 

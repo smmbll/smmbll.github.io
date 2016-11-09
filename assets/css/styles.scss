@@ -157,6 +157,7 @@ h1, h2, h3, h4, h5 {
     }
 
     &.latest {
+      border-right: 2px solid $tile-1;
       .latest-marker {
         color: $red;
         text-transform:uppercase;

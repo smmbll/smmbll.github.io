@@ -44,7 +44,7 @@ layout: default
         {% endif %}
       </div>
     </div>
-    {% for post in site.posts %}
+    {% for post in site.posts[:2] %}
     {% capture modulo %}{{ forloop.index | modulo: 3 }}{% endcapture %}
       {% if forloop.index > 1 %}
         {% if modulo == '2' %}

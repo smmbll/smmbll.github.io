@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Not my America
+title:  Not 
 date:   2016-11-09 13:15:00 +0200
 author: Lion Summerbell
 type: essay

@@ -29,7 +29,7 @@ It is a hard road, but it is the only one. If we don’t know that now, we never
 
 _But_, you say, _they’re racists, they’re sexists, they’re homophobes. They’re just horrible people who can’t be reasoned with. They're just fucking white people_. If that’s your perspective, then be prepared to live in Trump’s America for a long, long time. Do you think this is a problem with being white? Are you white? If you are, are you a racist, a bigot, a homophobe? No? So what's different? I've got a few hints if you're struggling to answer that. Take a look at where the house you grew up in was. Take a look at where your schools were. What kind of letters came after your dad's name? What was your mother's job? Did she even have one?
 
-Why do some white people vote for hate, and some don't? It's a tough question to answer, but I'm willing to bet that there are better answers to it than the color of their skin.
+Why do some white people vote for hate, and some don't? It's a tough question, but I'm willing to bet–and history teaches us–that there are better answers to it than the color of their skin.
 
 Really, though: ask yourself if you’re ready to write off hundreds of millions of people like that. Are you actually ready to dismiss reconciling them as an integral part of a rational and reasonable American politics? Are you willing to live in a world where that many people have to be relegated to the ranks of the insane, rather than one in which people make crude connections between feelings and circumstances, neither of which they fully understand? How many of you have been to therapy to close _exactly that gap_?
 

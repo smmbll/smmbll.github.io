@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Whose America“
+title:  Not my America
 date:   2016-11-09 13:15:00 +0200
 author: Lion Summerbell
 type: essay
